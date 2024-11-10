@@ -1,0 +1,11 @@
+Model Information:
+* title:	MONAS [lowpoly]
+* source:	https://sketchfab.com/3d-models/monas-lowpoly-f52b3108f088471ba99685a44b338507
+* author:	eddyhiro (https://sketchfab.com/eddyhero)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "MONAS [lowpoly]" (https://sketchfab.com/3d-models/monas-lowpoly-f52b3108f088471ba99685a44b338507) by eddyhiro (https://sketchfab.com/eddyhero) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
