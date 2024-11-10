@@ -212,7 +212,7 @@ p.logo-title {
 }
 
 .header {
-    background-image: url(Asset/monas.png);
+    background-image: url(asset/monas.png);
     background-size: cover;
     background-position: center;
     height: 300px;
