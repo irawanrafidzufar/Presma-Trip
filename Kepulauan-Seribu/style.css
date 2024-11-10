@@ -212,7 +212,7 @@ p.logo-title {
 }
 
 .header {
-    background-image: url(Asset/1200x300.png);
+    background-image: url(asset/1200x300.png);
     background-size: cover;
     background-position: center;
     height: 300px;
